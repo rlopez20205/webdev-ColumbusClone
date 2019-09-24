@@ -1,1 +1,31 @@
-/* CSS code  */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navlogo{
+    height: 22px;
+}
+
+#bluenav{
+    background-color: #005983;
+}
+
+nav{
+    background-color: #102438;
+}
+
+ul{
+    list-style-type: none;
+    padding: 5px 0px;
+}
+ul li{
+    font-size: 11px;
+    display: inline;
+    padding: 5px 10px;
+    font-family: 'Open Sans,' sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+}
