@@ -9,6 +9,8 @@ body{
 
 #bluenav{
     background-color: #005983;
+    margin: 0px;
+    padding: 0px;
 }
 
 nav{
@@ -20,7 +22,7 @@ ul{
     padding: 5px 0px;
 }
 ul li{
-    font-size: 11px;
+    font-size: 13.5px;
     display: inline;
     padding: 5px 10px;
     font-family: 'Open Sans,' sans-serif;
