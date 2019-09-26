@@ -18,6 +18,7 @@ nav{
 }
 
 ul{
+    display: inline-block;
     list-style-type: none;
     padding: 5px 0px;
 }
@@ -37,4 +38,46 @@ ul li{
     background-color: black;
     background-image: url(images/graduation.jpg);
     background-size: cover;
+}
+
+#explorecchs{
+    height: 400px;
+    width: 100vw;
+    background-color: #10243b;
+}
+#exploreheader{
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color: white;
+}
+#exploresection{
+    height: 300px;
+    width: 100vw;
+}
+.explorebox{
+    height: 300px;
+    width: 24.5vw;
+    display: inline-block;
+    background-color: yellow;
+}
+#patriotplaza{
+    background-image: url(images/patriots\ plaza.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#college{
+    background-image: url(images/college.png);
+    background-size: cover;
+    background-position: center;
+}
+#ccnn{
+    background-image: url(images/ccnn.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#media{
+    background-image: url(images/ccnn\ live.png);
+    background-size: cover;
+    background-position: center;
 }
